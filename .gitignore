@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+*.sublime*
+indec_mp3
+venv
+audios
