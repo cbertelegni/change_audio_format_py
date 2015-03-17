@@ -1,4 +1,3 @@
-# change_audio_format_py
+# change audio format py
 
-## Documentation
-[Pydub](https://github.com/jiaaro/pydub)
+This is an implementation of [Pydub](https://github.com/jiaaro/pydub) Copyright (c) 2011 James Robert, http://jiaaro.com
